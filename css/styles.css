@@ -526,7 +526,7 @@ display: block;
 }
 
 .strategy-list {
-    gap: 24px;
+    gap: 72px 24px;
     }
 
 .strategy-list-item {
@@ -1020,7 +1020,8 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
 }
 
 .container-form {
-padding-left: 92px;
+/* padding-left: 92px; */
+margin-left: 80px;
 }
 
 .container-form-3 {
